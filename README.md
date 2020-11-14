@@ -5,9 +5,10 @@
 เกมเปิดไพ่ โดยผู้เล่นเปิดไพ่ จับคู่ให้ครบแล้วจะได้คะแนน
 
 ## How to install Project
+- Clone project > ``` git clone https://github.com/tiekungsos/cardChallengeProject.git ```
 - copy .env-dist > .env
-- set up environtment 
-- bash install.sh
+- set up docker > https://docs.docker.com/engine/install/ubuntu/
+- Install project > ``` bash install.sh ```
 - enjoy the game.
 
 ### Stack
