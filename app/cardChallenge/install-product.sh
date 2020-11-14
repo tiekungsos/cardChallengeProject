@@ -5,6 +5,6 @@ php artisan jwt:secret
 php artisan config:cache
 php artisan migrate:refresh
 
-# bash install.sh
-# npm install --global cross-env
-# npm run production
+bash install.sh
+npm install --global cross-env
+npm run production
