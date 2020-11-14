@@ -4,7 +4,7 @@ echo "Start Install Project Card Challenge"
     {
        docker-compose up -d
     } && {
-        docker exec docker-lemp_app_1 bash install-product.sh
+        docker exec cardchallengeproject_app_1 bash install-product.sh
     }
 
     echo "Success Install Project Card Challenge"
