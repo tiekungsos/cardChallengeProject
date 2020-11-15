@@ -9,7 +9,7 @@
 - copy .env-dist > .env : ``` cp .env-dist .env```
 - set up docker : https://docs.docker.com/engine/install/ubuntu/
 - Install project : ``` bash install.sh ```
-- enjoy the game.
+- register and login to enjoy the game.
 
 ### Stack
 - nginx 1.13
